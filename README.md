@@ -16,6 +16,3 @@ Here are the steps we followed :
 - Data exploration, building graphs (using seaborn and matplotlib)
 - Map of NYC using Bokeh
 - Building a "search engine" where the user is asked for what type of information she is looking for. The output is a summary of the housing and crime situations in NYC (per borough or neighborhood).
-
-
-This is a group project from a class I took at Columbia University.
