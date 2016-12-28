@@ -1,0 +1,179 @@
+,neighborhood,zipcode
+0,Central Bronx,10453
+1,Central Bronx, 10457
+2,Central Bronx, 10460
+3,Bronx Park and Fordham,10458
+4,Bronx Park and Fordham, 10467
+5,Bronx Park and Fordham, 10468
+6,High Bridge and Morrisania,10451
+7,High Bridge and Morrisania, 10452
+8,High Bridge and Morrisania, 10456
+9,Hunts Point and Mott Haven,10454
+10,Hunts Point and Mott Haven, 10455
+11,Hunts Point and Mott Haven, 10459
+12,Hunts Point and Mott Haven, 10474
+13,Kingsbridge and Riverdale,10463
+14,Kingsbridge and Riverdale, 10471
+15,Northeast Bronx,10466
+16,Northeast Bronx, 10469
+17,Northeast Bronx, 10470
+18,Northeast Bronx, 10475
+19,Southeast Bronx,10461
+20,Southeast Bronx, 10462
+21,Southeast Bronx,10464
+22,Southeast Bronx, 10465
+23,Southeast Bronx, 10472
+24,Southeast Bronx, 10473
+25,Central Brooklyn,11212
+26,Central Brooklyn, 11213
+27,Central Brooklyn, 11216
+28,Central Brooklyn, 11233
+29,Central Brooklyn, 11238
+30,Southwest Brooklyn,11209
+31,Southwest Brooklyn, 11214
+32,Southwest Brooklyn, 11228
+33,Borough Park,11204
+34,Borough Park, 11218
+35,Borough Park, 11219
+36,Borough Park, 11230
+37,Canarsie and Flatlands,11234
+38,Canarsie and Flatlands, 11236
+39,Canarsie and Flatlands, 11239
+40,Southern Brooklyn,11223
+41,Southern Brooklyn, 11224
+42,Southern Brooklyn, 11229
+43,Southern Brooklyn, 11235
+44,Northwest Brooklyn,11201
+45,Northwest Brooklyn, 11205
+46,Northwest Brooklyn, 11215
+47,Northwest Brooklyn, 11217
+48,Northwest Brooklyn, 11231
+49,Flatbush,11203
+50,Flatbush, 11210
+51,Flatbush, 11225
+52,Flatbush, 11226
+53,East New York and New Lots,11207
+54,East New York and New Lots, 11208
+55,Greenpoint,11211
+56,Greenpoint, 11222
+57,Sunset Park,11220
+58,Sunset Park, 11232
+59,Bushwick and Williamsburg,11206
+60,Bushwick and Williamsburg, 11221
+61,Bushwick and Williamsburg, 11237
+62,Central Harlem,10026
+63,Central Harlem, 10027
+64,Central Harlem, 10030
+65,Central Harlem, 10037
+66,Central Harlem, 10039
+67,Chelsea and Clinton,10001
+68,Chelsea and Clinton, 10011
+69,Chelsea and Clinton, 10018
+70,Chelsea and Clinton, 10019
+71,Chelsea and Clinton, 10020
+72,Chelsea and Clinton, 10036
+73,East Harlem,10029
+74,East Harlem, 10035
+75,Gramercy Park and Murray Hill,10010
+76,Gramercy Park and Murray Hill, 10016
+77,Gramercy Park and Murray Hill, 10017
+78,Gramercy Park and Murray Hill, 10022
+79,Greenwich Village and Soho,10012
+80,Greenwich Village and Soho, 10013
+81,Greenwich Village and Soho, 10014
+82,Lower Manhattan,10004
+83,Lower Manhattan, 10005
+84,Lower Manhattan, 10006
+85,Lower Manhattan, 10007
+86,Lower Manhattan, 10038
+87,Lower Manhattan, 10280
+88,Lower East Side,10002
+89,Lower East Side, 10003
+90,Lower East Side, 10009
+91,Upper East Side,10021
+92,Upper East Side, 10028
+93,Upper East Side, 10044
+94,Upper East Side, 10065
+95,Upper East Side, 10075
+96,Upper East Side, 10128
+97,Upper West Side,10023
+98,Upper West Side, 10024
+99,Upper West Side, 10025
+100,Inwood and Washington Heights,10031
+101,Inwood and Washington Heights, 10032
+102,Inwood and Washington Heights, 10033
+103,Inwood and Washington Heights, 10034
+104,Inwood and Washington Heights, 10040
+105,Northeast Queens,11361
+106,Northeast Queens, 11362
+107,Northeast Queens, 11363
+108,Northeast Queens, 11364
+109,North Queens,11354
+110,North Queens, 11355
+111,North Queens, 11356
+112,North Queens, 11357
+113,North Queens, 11358
+114,North Queens, 11359
+115,North Queens, 11360
+116,Central Queens,11365
+117,Central Queens, 11366
+118,Central Queens, 11367
+119,Jamaica,11412
+120,Jamaica, 11423
+121,Jamaica, 11432
+122,Jamaica, 11433
+123,Jamaica, 11434
+124,Jamaica, 11435
+125,Jamaica, 11436
+126,Northwest Queens,11101
+127,Northwest Queens, 11102
+128,Northwest Queens, 11103
+129,Northwest Queens, 11104
+130,Northwest Queens, 11105
+131,Northwest Queens, 11106
+132,West Central Queens,11374
+133,West Central Queens, 11375
+134,West Central Queens, 11379
+135,West Central Queens, 11385
+136,Rockaways,11691
+137,Rockaways, 11692
+138,Rockaways, 11693
+139,Rockaways, 11694
+140,Rockaways, 11695
+141,Rockaways, 11697
+142,Southeast Queens,11004
+143,Southeast Queens, 11005
+144,Southeast Queens, 11411
+145,Southeast Queens, 11413
+146,Southeast Queens, 11422
+147,Southeast Queens, 11426
+148,Southeast Queens, 11427
+149,Southeast Queens, 11428
+150,Southeast Queens, 11429
+151,Southwest Queens,11414
+152,Southwest Queens, 11415
+153,Southwest Queens, 11416
+154,Southwest Queens, 11417
+155,Southwest Queens, 11418
+156,Southwest Queens, 11419
+157,Southwest Queens, 11420
+158,Southwest Queens, 11421
+159,West Queens,11368
+160,West Queens, 11369
+161,West Queens, 11370
+162,West Queens, 11372
+163,West Queens, 11373
+164,West Queens, 11377
+165,West Queens, 11378
+166,Port Richmond,10302
+167,Port Richmond, 10303
+168,Port Richmond, 10310
+169,South Shore,10306
+170,South Shore, 10307
+171,South Shore, 10308
+172,South Shore, 10309
+173,South Shore, 10312
+174,Stapleton and St. George,10301
+175,Stapleton and St. George, 10304
+176,Stapleton and St. George, 10305
+177,Mid-Island,10314

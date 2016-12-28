@@ -1,0 +1,1079 @@
+,crime_type,crime_nb,precinct,zipcode
+0,Burglary ,124,100,11693
+1,Burglary ,147,101,11691
+2,Burglary ,286,102,11418
+3,Burglary ,215,103,11432
+4,Burglary ,284,104,11385
+5,Burglary ,306,105,11428
+6,Burglary ,244,106,11417
+7,Burglary ,153,107,11365
+8,Burglary ,210,108,11105
+9,Burglary ,445,109,11354
+10,Burglary ,67,10,10011
+11,Burglary ,323,110,11368
+12,Burglary ,205,111,11361
+13,Burglary ,106,112,11375
+14,Burglary ,317,113,11434
+15,Burglary ,415,114,11103
+16,Burglary ,315,115,11372
+17,Burglary ,192,120,10301
+18,Burglary ,130,121,None
+19,Burglary ,180,122,10306
+20,Burglary ,89,123,10307
+21,Burglary ,234,13,10010
+22,Burglary ,114,17,10017
+23,Burglary ,208,19,10021
+24,Burglary ,109,1,10013
+25,Burglary ,81,20,10020
+26,Burglary ,100,23,10029
+27,Burglary ,140,24,10025
+28,Burglary ,103,25,10035
+29,Burglary ,53,26,10027
+30,Burglary ,75,28,10027
+31,Burglary ,99,30,10028
+32,Burglary ,90,32,10030
+33,Burglary ,104,33,10031
+34,Burglary ,156,34,10033
+35,Burglary ,134,40,10454
+36,Burglary ,194,41,10459
+37,Burglary ,147,42,10452
+38,Burglary ,304,43,10472
+39,Burglary ,253,44,10452
+40,Burglary ,155,45,10465
+41,Burglary ,194,46,10457
+42,Burglary ,367,47,10466
+43,Burglary ,255,48,10457
+44,Burglary ,183,49,10461
+45,Burglary ,170,50,10463
+46,Burglary ,363,52,10467
+47,Burglary ,91,5,10013
+48,Burglary ,176,60,11224
+49,Burglary ,329,61,11223
+50,Burglary ,276,62,11214
+51,Burglary ,171,63,11210
+52,Burglary ,258,66,11218
+53,Burglary ,342,67,11226
+54,Burglary ,157,68,11220
+55,Burglary ,216,69,11236
+56,Burglary ,149,6,10011
+57,Burglary ,262,70,11230
+58,Burglary ,176,71,11225
+59,Burglary ,181,72,11232
+60,Burglary ,258,73,11212
+61,Burglary ,494,75,11208
+62,Burglary ,94,76,11231
+63,Burglary ,281,77,11213
+64,Burglary ,113,78,11217
+65,Burglary ,363,79,11211
+66,Burglary ,50,7,10002
+67,Burglary ,306,81,11221
+68,Burglary ,486,83,11237
+69,Burglary ,109,84,11201
+70,Burglary ,178,88,11205
+71,Burglary ,319,90,11211
+72,Burglary ,222,94,11222
+73,Burglary ,128,9,10003
+74,Burglary ,2,CPP,10024
+75,Burglary ,206,MNP,10019
+76,Burglary ,261,MSP,10001
+77,Fel. Assault ,127,100,11693
+78,Fel. Assault ,263,101,11691
+79,Fel. Assault ,232,102,11418
+80,Fel. Assault ,373,103,11432
+81,Fel. Assault ,188,104,11385
+82,Fel. Assault ,267,105,11428
+83,Fel. Assault ,223,106,11417
+84,Fel. Assault ,98,107,11365
+85,Fel. Assault ,123,108,11105
+86,Fel. Assault ,252,109,11354
+87,Fel. Assault ,94,10,10011
+88,Fel. Assault ,277,110,11368
+89,Fel. Assault ,64,111,11361
+90,Fel. Assault ,54,112,11375
+91,Fel. Assault ,445,113,11434
+92,Fel. Assault ,260,114,11103
+93,Fel. Assault ,324,115,11372
+94,Fel. Assault ,242,120,10301
+95,Fel. Assault ,214,121,None
+96,Fel. Assault ,104,122,10306
+97,Fel. Assault ,42,123,10307
+98,Fel. Assault ,166,13,10010
+99,Fel. Assault ,44,17,10017
+100,Fel. Assault ,88,19,10021
+101,Fel. Assault ,54,1,10013
+102,Fel. Assault ,37,20,10020
+103,Fel. Assault ,234,23,10029
+104,Fel. Assault ,112,24,10025
+105,Fel. Assault ,316,25,10035
+106,Fel. Assault ,83,26,10027
+107,Fel. Assault ,197,28,10027
+108,Fel. Assault ,174,30,10028
+109,Fel. Assault ,270,32,10030
+110,Fel. Assault ,165,33,10031
+111,Fel. Assault ,180,34,10033
+112,Fel. Assault ,430,40,10454
+113,Fel. Assault ,589,41,10459
+114,Fel. Assault ,392,42,10452
+115,Fel. Assault ,615,43,10472
+116,Fel. Assault ,639,44,10452
+117,Fel. Assault ,147,45,10465
+118,Fel. Assault ,495,46,10457
+119,Fel. Assault ,522,47,10466
+120,Fel. Assault ,458,48,10457
+121,Fel. Assault ,167,49,10461
+122,Fel. Assault ,127,50,10463
+123,Fel. Assault ,521,52,10467
+124,Fel. Assault ,127,5,10013
+125,Fel. Assault ,284,60,11224
+126,Fel. Assault ,174,61,11223
+127,Fel. Assault ,157,62,11214
+128,Fel. Assault ,142,63,11210
+129,Fel. Assault ,104,66,11218
+130,Fel. Assault ,556,67,11226
+131,Fel. Assault ,95,68,11220
+132,Fel. Assault ,244,69,11236
+133,Fel. Assault ,116,6,10011
+134,Fel. Assault ,268,70,11230
+135,Fel. Assault ,373,71,11225
+136,Fel. Assault ,228,72,11232
+137,Fel. Assault ,575,73,11212
+138,Fel. Assault ,868,75,11208
+139,Fel. Assault ,94,76,11231
+140,Fel. Assault ,353,77,11213
+141,Fel. Assault ,68,78,11217
+142,Fel. Assault ,363,79,11211
+143,Fel. Assault ,140,7,10002
+144,Fel. Assault ,313,81,11221
+145,Fel. Assault ,282,83,11237
+146,Fel. Assault ,118,84,11201
+147,Fel. Assault ,154,88,11205
+148,Fel. Assault ,226,90,11211
+149,Fel. Assault ,76,94,11222
+150,Fel. Assault ,135,9,10003
+151,Fel. Assault ,8,CPP,10024
+152,Fel. Assault ,163,MNP,10019
+153,Fel. Assault ,157,MSP,10001
+154,G.L.A. ,33,100,11693
+155,G.L.A. ,73,101,11691
+156,G.L.A. ,265,102,11418
+157,G.L.A. ,134,103,11432
+158,G.L.A. ,232,104,11385
+159,G.L.A. ,237,105,11428
+160,G.L.A. ,240,106,11417
+161,G.L.A. ,146,107,11365
+162,G.L.A. ,155,108,11105
+163,G.L.A. ,227,109,11354
+164,G.L.A. ,39,10,10011
+165,G.L.A. ,118,110,11368
+166,G.L.A. ,100,111,11361
+167,G.L.A. ,105,112,11375
+168,G.L.A. ,244,113,11434
+169,G.L.A. ,198,114,11103
+170,G.L.A. ,163,115,11372
+171,G.L.A. ,76,120,10301
+172,G.L.A. ,67,121,None
+173,G.L.A. ,61,122,10306
+174,G.L.A. ,34,123,10307
+175,G.L.A. ,53,13,10010
+176,G.L.A. ,33,17,10017
+177,G.L.A. ,93,19,10021
+178,G.L.A. ,30,1,10013
+179,G.L.A. ,34,20,10020
+180,G.L.A. ,26,23,10029
+181,G.L.A. ,44,24,10025
+182,G.L.A. ,32,25,10035
+183,G.L.A. ,22,26,10027
+184,G.L.A. ,24,28,10027
+185,G.L.A. ,25,30,10028
+186,G.L.A. ,33,32,10030
+187,G.L.A. ,36,33,10031
+188,G.L.A. ,85,34,10033
+189,G.L.A. ,101,40,10454
+190,G.L.A. ,82,41,10459
+191,G.L.A. ,98,42,10452
+192,G.L.A. ,182,43,10472
+193,G.L.A. ,179,44,10452
+194,G.L.A. ,142,45,10465
+195,G.L.A. ,116,46,10457
+196,G.L.A. ,215,47,10466
+197,G.L.A. ,80,48,10457
+198,G.L.A. ,134,49,10461
+199,G.L.A. ,83,50,10463
+200,G.L.A. ,112,52,10467
+201,G.L.A. ,29,5,10013
+202,G.L.A. ,67,60,11224
+203,G.L.A. ,141,61,11223
+204,G.L.A. ,105,62,11214
+205,G.L.A. ,107,63,11210
+206,G.L.A. ,99,66,11218
+207,G.L.A. ,171,67,11226
+208,G.L.A. ,119,68,11220
+209,G.L.A. ,107,69,11236
+210,G.L.A. ,51,6,10011
+211,G.L.A. ,94,70,11230
+212,G.L.A. ,87,71,11225
+213,G.L.A. ,110,72,11232
+214,G.L.A. ,98,73,11212
+215,G.L.A. ,317,75,11208
+216,G.L.A. ,59,76,11231
+217,G.L.A. ,133,77,11213
+218,G.L.A. ,76,78,11217
+219,G.L.A. ,139,79,11211
+220,G.L.A. ,31,7,10002
+221,G.L.A. ,123,81,11221
+222,G.L.A. ,141,83,11237
+223,G.L.A. ,46,84,11201
+224,G.L.A. ,102,88,11205
+225,G.L.A. ,166,90,11211
+226,G.L.A. ,115,94,11222
+227,G.L.A. ,36,9,10003
+228,G.L.A. ,1,CPP,10024
+229,G.L.A. ,46,MNP,10019
+230,G.L.A. ,27,MSP,10001
+231,Gr. Larceny ,188,100,11693
+232,Gr. Larceny ,195,101,11691
+233,Gr. Larceny ,480,102,11418
+234,Gr. Larceny ,435,103,11432
+235,Gr. Larceny ,580,104,11385
+236,Gr. Larceny ,547,105,11428
+237,Gr. Larceny ,539,106,11417
+238,Gr. Larceny ,432,107,11365
+239,Gr. Larceny ,511,108,11105
+240,Gr. Larceny ,866,109,11354
+241,Gr. Larceny ,722,10,10011
+242,Gr. Larceny ,570,110,11368
+243,Gr. Larceny ,429,111,11361
+244,Gr. Larceny ,400,112,11375
+245,Gr. Larceny ,554,113,11434
+246,Gr. Larceny ,660,114,11103
+247,Gr. Larceny ,631,115,11372
+248,Gr. Larceny ,371,120,10301
+249,Gr. Larceny ,390,121,None
+250,Gr. Larceny ,308,122,10306
+251,Gr. Larceny ,211,123,10307
+252,Gr. Larceny ,1396,13,10010
+253,Gr. Larceny ,608,17,10017
+254,Gr. Larceny ,1315,19,10021
+255,Gr. Larceny ,789,1,10013
+256,Gr. Larceny ,646,20,10020
+257,Gr. Larceny ,327,23,10029
+258,Gr. Larceny ,540,24,10025
+259,Gr. Larceny ,315,25,10035
+260,Gr. Larceny ,315,26,10027
+261,Gr. Larceny ,322,28,10027
+262,Gr. Larceny ,220,30,10028
+263,Gr. Larceny ,288,32,10030
+264,Gr. Larceny ,328,33,10031
+265,Gr. Larceny ,433,34,10033
+266,Gr. Larceny ,468,40,10454
+267,Gr. Larceny ,354,41,10459
+268,Gr. Larceny ,283,42,10452
+269,Gr. Larceny ,676,43,10472
+270,Gr. Larceny ,682,44,10452
+271,Gr. Larceny ,511,45,10465
+272,Gr. Larceny ,438,46,10457
+273,Gr. Larceny ,399,47,10466
+274,Gr. Larceny ,460,48,10457
+275,Gr. Larceny ,346,49,10461
+276,Gr. Larceny ,434,50,10463
+277,Gr. Larceny ,711,52,10467
+278,Gr. Larceny ,504,5,10013
+279,Gr. Larceny ,544,60,11224
+280,Gr. Larceny ,781,61,11223
+281,Gr. Larceny ,452,62,11214
+282,Gr. Larceny ,558,63,11210
+283,Gr. Larceny ,464,66,11218
+284,Gr. Larceny ,658,67,11226
+285,Gr. Larceny ,358,68,11220
+286,Gr. Larceny ,343,69,11236
+287,Gr. Larceny ,1067,6,10011
+288,Gr. Larceny ,597,70,11230
+289,Gr. Larceny ,521,71,11225
+290,Gr. Larceny ,398,72,11232
+291,Gr. Larceny ,404,73,11212
+292,Gr. Larceny ,1014,75,11208
+293,Gr. Larceny ,267,76,11231
+294,Gr. Larceny ,477,77,11213
+295,Gr. Larceny ,484,78,11217
+296,Gr. Larceny ,468,79,11211
+297,Gr. Larceny ,317,7,10002
+298,Gr. Larceny ,437,81,11221
+299,Gr. Larceny ,451,83,11237
+300,Gr. Larceny ,603,84,11201
+301,Gr. Larceny ,402,88,11205
+302,Gr. Larceny ,647,90,11211
+303,Gr. Larceny ,488,94,11222
+304,Gr. Larceny ,779,9,10003
+305,Gr. Larceny ,47,CPP,10024
+306,Gr. Larceny ,1781,MNP,10019
+307,Gr. Larceny ,2001,MSP,10001
+308,Housing ,24,100,11693
+309,Housing ,76,101,11691
+310,Housing ,0,102,11418
+311,Housing ,29,103,11432
+312,Housing ,0,104,11385
+313,Housing ,0,105,11428
+314,Housing ,0,106,11417
+315,Housing ,41,107,11365
+316,Housing ,0,108,11105
+317,Housing ,12,109,11354
+318,Housing ,34,10,10011
+319,Housing ,0,110,11368
+320,Housing ,0,111,11361
+321,Housing ,11,112,11375
+322,Housing ,6,113,11434
+323,Housing ,151,114,11103
+324,Housing ,0,115,11372
+325,Housing ,32,120,10301
+326,Housing ,12,121,None
+327,Housing ,17,122,10306
+328,Housing ,0,123,10307
+329,Housing ,8,13,10010
+330,Housing ,0,17,10017
+331,Housing ,22,19,10021
+332,Housing ,0,1,10013
+333,Housing ,21,20,10020
+334,Housing ,281,23,10029
+335,Housing ,75,24,10025
+336,Housing ,117,25,10035
+337,Housing ,72,26,10027
+338,Housing ,45,28,10027
+339,Housing ,10,30,10028
+340,Housing ,146,32,10030
+341,Housing ,9,33,10031
+342,Housing ,10,34,10033
+343,Housing ,266,40,10454
+344,Housing ,22,41,10459
+345,Housing ,169,42,10452
+346,Housing ,204,43,10472
+347,Housing ,40,44,10452
+348,Housing ,48,45,10465
+349,Housing ,25,46,10457
+350,Housing ,80,47,10466
+351,Housing ,15,48,10457
+352,Housing ,24,49,10461
+353,Housing ,42,50,10463
+354,Housing ,7,52,10467
+355,Housing ,34,5,10013
+356,Housing ,176,60,11224
+357,Housing ,57,61,11223
+358,Housing ,0,62,11214
+359,Housing ,29,63,11210
+360,Housing ,0,66,11218
+361,Housing ,4,67,11226
+362,Housing ,0,68,11220
+363,Housing ,87,69,11236
+364,Housing ,0,6,10011
+365,Housing ,0,70,11230
+366,Housing ,1,71,11225
+367,Housing ,0,72,11232
+368,Housing ,266,73,11212
+369,Housing ,206,75,11208
+370,Housing ,112,76,11231
+371,Housing ,93,77,11213
+372,Housing ,15,78,11217
+373,Housing ,202,79,11211
+374,Housing ,126,7,10002
+375,Housing ,77,81,11221
+376,Housing ,37,83,11237
+377,Housing ,39,84,11201
+378,Housing ,101,88,11205
+379,Housing ,150,90,11211
+380,Housing ,24,94,11222
+381,Housing ,95,9,10003
+382,Housing ,0,CPP,10024
+383,Housing ,4,MNP,10019
+384,Housing ,0,MSP,10001
+385,Misd. Assault ,278,100,11693
+386,Misd. Assault ,456,101,11691
+387,Misd. Assault ,572,102,11418
+388,Misd. Assault ,864,103,11432
+389,Misd. Assault ,602,104,11385
+390,Misd. Assault ,694,105,11428
+391,Misd. Assault ,469,106,11417
+392,Misd. Assault ,366,107,11365
+393,Misd. Assault ,464,108,11105
+394,Misd. Assault ,749,109,11354
+395,Misd. Assault ,270,10,10011
+396,Misd. Assault ,751,110,11368
+397,Misd. Assault ,120,111,11361
+398,Misd. Assault ,209,112,11375
+399,Misd. Assault ,735,113,11434
+400,Misd. Assault ,899,114,11103
+401,Misd. Assault ,1044,115,11372
+402,Misd. Assault ,752,120,10301
+403,Misd. Assault ,494,121,None
+404,Misd. Assault ,309,122,10306
+405,Misd. Assault ,198,123,10307
+406,Misd. Assault ,423,13,10010
+407,Misd. Assault ,204,17,10017
+408,Misd. Assault ,317,19,10021
+409,Misd. Assault ,293,1,10013
+410,Misd. Assault ,233,20,10020
+411,Misd. Assault ,579,23,10029
+412,Misd. Assault ,276,24,10025
+413,Misd. Assault ,588,25,10035
+414,Misd. Assault ,222,26,10027
+415,Misd. Assault ,414,28,10027
+416,Misd. Assault ,516,30,10028
+417,Misd. Assault ,681,32,10030
+418,Misd. Assault ,395,33,10031
+419,Misd. Assault ,510,34,10033
+420,Misd. Assault ,1184,40,10454
+421,Misd. Assault ,705,41,10459
+422,Misd. Assault ,901,42,10452
+423,Misd. Assault ,1443,43,10472
+424,Misd. Assault ,1167,44,10452
+425,Misd. Assault ,487,45,10465
+426,Misd. Assault ,1220,46,10457
+427,Misd. Assault ,931,47,10466
+428,Misd. Assault ,927,48,10457
+429,Misd. Assault ,590,49,10461
+430,Misd. Assault ,326,50,10463
+431,Misd. Assault ,1001,52,10467
+432,Misd. Assault ,271,5,10013
+433,Misd. Assault ,588,60,11224
+434,Misd. Assault ,409,61,11223
+435,Misd. Assault ,631,62,11214
+436,Misd. Assault ,282,63,11210
+437,Misd. Assault ,338,66,11218
+438,Misd. Assault ,1114,67,11226
+439,Misd. Assault ,309,68,11220
+440,Misd. Assault ,397,69,11236
+441,Misd. Assault ,299,6,10011
+442,Misd. Assault ,754,70,11230
+443,Misd. Assault ,619,71,11225
+444,Misd. Assault ,481,72,11232
+445,Misd. Assault ,1097,73,11212
+446,Misd. Assault ,1832,75,11208
+447,Misd. Assault ,153,76,11231
+448,Misd. Assault ,699,77,11213
+449,Misd. Assault ,203,78,11217
+450,Misd. Assault ,792,79,11211
+451,Misd. Assault ,325,7,10002
+452,Misd. Assault ,600,81,11221
+453,Misd. Assault ,731,83,11237
+454,Misd. Assault ,310,84,11201
+455,Misd. Assault ,345,88,11205
+456,Misd. Assault ,469,90,11211
+457,Misd. Assault ,244,94,11222
+458,Misd. Assault ,410,9,10003
+459,Misd. Assault ,24,CPP,10024
+460,Misd. Assault ,523,MNP,10019
+461,Misd. Assault ,576,MSP,10001
+462,Misd. Sex Crimes ,9,100,11693
+463,Misd. Sex Crimes ,19,101,11691
+464,Misd. Sex Crimes ,45,102,11418
+465,Misd. Sex Crimes ,48,103,11432
+466,Misd. Sex Crimes ,27,104,11385
+467,Misd. Sex Crimes ,26,105,11428
+468,Misd. Sex Crimes ,24,106,11417
+469,Misd. Sex Crimes ,34,107,11365
+470,Misd. Sex Crimes ,65,108,11105
+471,Misd. Sex Crimes ,39,109,11354
+472,Misd. Sex Crimes ,16,10,10011
+473,Misd. Sex Crimes ,76,110,11368
+474,Misd. Sex Crimes ,9,111,11361
+475,Misd. Sex Crimes ,22,112,11375
+476,Misd. Sex Crimes ,44,113,11434
+477,Misd. Sex Crimes ,78,114,11103
+478,Misd. Sex Crimes ,61,115,11372
+479,Misd. Sex Crimes ,49,120,10301
+480,Misd. Sex Crimes ,42,121,None
+481,Misd. Sex Crimes ,23,122,10306
+482,Misd. Sex Crimes ,9,123,10307
+483,Misd. Sex Crimes ,99,13,10010
+484,Misd. Sex Crimes ,45,17,10017
+485,Misd. Sex Crimes ,77,19,10021
+486,Misd. Sex Crimes ,36,1,10013
+487,Misd. Sex Crimes ,31,20,10020
+488,Misd. Sex Crimes ,46,23,10029
+489,Misd. Sex Crimes ,29,24,10025
+490,Misd. Sex Crimes ,39,25,10035
+491,Misd. Sex Crimes ,31,26,10027
+492,Misd. Sex Crimes ,23,28,10027
+493,Misd. Sex Crimes ,30,30,10028
+494,Misd. Sex Crimes ,39,32,10030
+495,Misd. Sex Crimes ,23,33,10031
+496,Misd. Sex Crimes ,29,34,10033
+497,Misd. Sex Crimes ,80,40,10454
+498,Misd. Sex Crimes ,31,41,10459
+499,Misd. Sex Crimes ,38,42,10452
+500,Misd. Sex Crimes ,71,43,10472
+501,Misd. Sex Crimes ,66,44,10452
+502,Misd. Sex Crimes ,29,45,10465
+503,Misd. Sex Crimes ,55,46,10457
+504,Misd. Sex Crimes ,76,47,10466
+505,Misd. Sex Crimes ,51,48,10457
+506,Misd. Sex Crimes ,33,49,10461
+507,Misd. Sex Crimes ,15,50,10463
+508,Misd. Sex Crimes ,54,52,10467
+509,Misd. Sex Crimes ,28,5,10013
+510,Misd. Sex Crimes ,38,60,11224
+511,Misd. Sex Crimes ,27,61,11223
+512,Misd. Sex Crimes ,40,62,11214
+513,Misd. Sex Crimes ,24,63,11210
+514,Misd. Sex Crimes ,39,66,11218
+515,Misd. Sex Crimes ,60,67,11226
+516,Misd. Sex Crimes ,30,68,11220
+517,Misd. Sex Crimes ,22,69,11236
+518,Misd. Sex Crimes ,30,6,10011
+519,Misd. Sex Crimes ,53,70,11230
+520,Misd. Sex Crimes ,58,71,11225
+521,Misd. Sex Crimes ,70,72,11232
+522,Misd. Sex Crimes ,55,73,11212
+523,Misd. Sex Crimes ,99,75,11208
+524,Misd. Sex Crimes ,11,76,11231
+525,Misd. Sex Crimes ,62,77,11213
+526,Misd. Sex Crimes ,18,78,11217
+527,Misd. Sex Crimes ,49,79,11211
+528,Misd. Sex Crimes ,15,7,10002
+529,Misd. Sex Crimes ,43,81,11221
+530,Misd. Sex Crimes ,69,83,11237
+531,Misd. Sex Crimes ,22,84,11201
+532,Misd. Sex Crimes ,15,88,11205
+533,Misd. Sex Crimes ,53,90,11211
+534,Misd. Sex Crimes ,21,94,11222
+535,Misd. Sex Crimes ,32,9,10003
+536,Misd. Sex Crimes ,2,CPP,10024
+537,Misd. Sex Crimes ,66,MNP,10019
+538,Misd. Sex Crimes ,134,MSP,10001
+539,Murder ,0,100,11693
+540,Murder ,4,101,11691
+541,Murder ,3,102,11418
+542,Murder ,9,103,11432
+543,Murder ,3,104,11385
+544,Murder ,7,105,11428
+545,Murder ,1,106,11417
+546,Murder ,1,107,11365
+547,Murder ,1,108,11105
+548,Murder ,6,109,11354
+549,Murder ,0,10,10011
+550,Murder ,6,110,11368
+551,Murder ,0,111,11361
+552,Murder ,0,112,11375
+553,Murder ,7,113,11434
+554,Murder ,2,114,11103
+555,Murder ,6,115,11372
+556,Murder ,6,120,10301
+557,Murder ,4,121,None
+558,Murder ,2,122,10306
+559,Murder ,1,123,10307
+560,Murder ,0,13,10010
+561,Murder ,0,17,10017
+562,Murder ,0,19,10021
+563,Murder ,0,1,10013
+564,Murder ,0,20,10020
+565,Murder ,4,23,10029
+566,Murder ,1,24,10025
+567,Murder ,4,25,10035
+568,Murder ,2,26,10027
+569,Murder ,1,28,10027
+570,Murder ,6,30,10028
+571,Murder ,3,32,10030
+572,Murder ,2,33,10031
+573,Murder ,1,34,10033
+574,Murder ,4,40,10454
+575,Murder ,4,41,10459
+576,Murder ,4,42,10452
+577,Murder ,8,43,10472
+578,Murder ,13,44,10452
+579,Murder ,0,45,10465
+580,Murder ,13,46,10457
+581,Murder ,16,47,10466
+582,Murder ,9,48,10457
+583,Murder ,6,49,10461
+584,Murder ,1,50,10463
+585,Murder ,5,52,10467
+586,Murder ,2,5,10013
+587,Murder ,8,60,11224
+588,Murder ,0,61,11223
+589,Murder ,0,62,11214
+590,Murder ,3,63,11210
+591,Murder ,1,66,11218
+592,Murder ,10,67,11226
+593,Murder ,1,68,11220
+594,Murder ,3,69,11236
+595,Murder ,2,6,10011
+596,Murder ,2,70,11230
+597,Murder ,5,71,11225
+598,Murder ,1,72,11232
+599,Murder ,10,73,11212
+600,Murder ,19,75,11208
+601,Murder ,1,76,11231
+602,Murder ,7,77,11213
+603,Murder ,0,78,11217
+604,Murder ,9,79,11211
+605,Murder ,0,7,10002
+606,Murder ,5,81,11221
+607,Murder ,8,83,11237
+608,Murder ,1,84,11201
+609,Murder ,2,88,11205
+610,Murder ,2,90,11211
+611,Murder ,0,94,11222
+612,Murder ,2,9,10003
+613,Murder ,0,CPP,10024
+614,Murder ,2,MNP,10019
+615,Murder ,0,MSP,10001
+616,Petit Larceny ,401,100,11693
+617,Petit Larceny ,513,101,11691
+618,Petit Larceny ,990,102,11418
+619,Petit Larceny ,1146,103,11432
+620,Petit Larceny ,1070,104,11385
+621,Petit Larceny ,765,105,11428
+622,Petit Larceny ,916,106,11417
+623,Petit Larceny ,762,107,11365
+624,Petit Larceny ,812,108,11105
+625,Petit Larceny ,1762,109,11354
+626,Petit Larceny ,849,10,10011
+627,Petit Larceny ,1863,110,11368
+628,Petit Larceny ,459,111,11361
+629,Petit Larceny ,1137,112,11375
+630,Petit Larceny ,1006,113,11434
+631,Petit Larceny ,1681,114,11103
+632,Petit Larceny ,1122,115,11372
+633,Petit Larceny ,955,120,10301
+634,Petit Larceny ,1491,121,None
+635,Petit Larceny ,823,122,10306
+636,Petit Larceny ,435,123,10307
+637,Petit Larceny ,1842,13,10010
+638,Petit Larceny ,605,17,10017
+639,Petit Larceny ,1518,19,10021
+640,Petit Larceny ,1843,1,10013
+641,Petit Larceny ,1204,20,10020
+642,Petit Larceny ,704,23,10029
+643,Petit Larceny ,980,24,10025
+644,Petit Larceny ,1043,25,10035
+645,Petit Larceny ,470,26,10027
+646,Petit Larceny ,1069,28,10027
+647,Petit Larceny ,439,30,10028
+648,Petit Larceny ,661,32,10030
+649,Petit Larceny ,655,33,10031
+650,Petit Larceny ,759,34,10033
+651,Petit Larceny ,1657,40,10454
+652,Petit Larceny ,868,41,10459
+653,Petit Larceny ,896,42,10452
+654,Petit Larceny ,1515,43,10472
+655,Petit Larceny ,1942,44,10452
+656,Petit Larceny ,1252,45,10465
+657,Petit Larceny ,1167,46,10457
+658,Petit Larceny ,975,47,10466
+659,Petit Larceny ,1060,48,10457
+660,Petit Larceny ,1250,49,10461
+661,Petit Larceny ,821,50,10463
+662,Petit Larceny ,1758,52,10467
+663,Petit Larceny ,1032,5,10013
+664,Petit Larceny ,891,60,11224
+665,Petit Larceny ,997,61,11223
+666,Petit Larceny ,959,62,11214
+667,Petit Larceny ,973,63,11210
+668,Petit Larceny ,930,66,11218
+669,Petit Larceny ,967,67,11226
+670,Petit Larceny ,871,68,11220
+671,Petit Larceny ,510,69,11236
+672,Petit Larceny ,1274,6,10011
+673,Petit Larceny ,1519,70,11230
+674,Petit Larceny ,962,71,11225
+675,Petit Larceny ,796,72,11232
+676,Petit Larceny ,880,73,11212
+677,Petit Larceny ,2139,75,11208
+678,Petit Larceny ,497,76,11231
+679,Petit Larceny ,958,77,11213
+680,Petit Larceny ,1259,78,11217
+681,Petit Larceny ,1131,79,11211
+682,Petit Larceny ,580,7,10002
+683,Petit Larceny ,656,81,11221
+684,Petit Larceny ,1041,83,11237
+685,Petit Larceny ,1433,84,11201
+686,Petit Larceny ,780,88,11205
+687,Petit Larceny ,1314,90,11211
+688,Petit Larceny ,780,94,11222
+689,Petit Larceny ,1295,9,10003
+690,Petit Larceny ,83,CPP,10024
+691,Petit Larceny ,2057,MNP,10019
+692,Petit Larceny ,4014,MSP,10001
+693,Rape ,8,100,11693
+694,Rape ,16,101,11691
+695,Rape ,21,102,11418
+696,Rape ,22,103,11432
+697,Rape ,16,104,11385
+698,Rape ,29,105,11428
+699,Rape ,24,106,11417
+700,Rape ,22,107,11365
+701,Rape ,15,108,11105
+702,Rape ,21,109,11354
+703,Rape ,12,10,10011
+704,Rape ,27,110,11368
+705,Rape ,1,111,11361
+706,Rape ,7,112,11375
+707,Rape ,22,113,11434
+708,Rape ,24,114,11103
+709,Rape ,28,115,11372
+710,Rape ,29,120,10301
+711,Rape ,9,121,None
+712,Rape ,5,122,10306
+713,Rape ,2,123,10307
+714,Rape ,13,13,10010
+715,Rape ,15,17,10017
+716,Rape ,13,19,10021
+717,Rape ,9,1,10013
+718,Rape ,8,20,10020
+719,Rape ,17,23,10029
+720,Rape ,13,24,10025
+721,Rape ,27,25,10035
+722,Rape ,17,26,10027
+723,Rape ,14,28,10027
+724,Rape ,18,30,10028
+725,Rape ,16,32,10030
+726,Rape ,18,33,10031
+727,Rape ,13,34,10033
+728,Rape ,31,40,10454
+729,Rape ,17,41,10459
+730,Rape ,30,42,10452
+731,Rape ,35,43,10472
+732,Rape ,34,44,10452
+733,Rape ,12,45,10465
+734,Rape ,29,46,10457
+735,Rape ,32,47,10466
+736,Rape ,21,48,10457
+737,Rape ,18,49,10461
+738,Rape ,17,50,10463
+739,Rape ,28,52,10467
+740,Rape ,6,5,10013
+741,Rape ,19,60,11224
+742,Rape ,10,61,11223
+743,Rape ,9,62,11214
+744,Rape ,11,63,11210
+745,Rape ,10,66,11218
+746,Rape ,44,67,11226
+747,Rape ,12,68,11220
+748,Rape ,17,69,11236
+749,Rape ,8,6,10011
+750,Rape ,22,70,11230
+751,Rape ,23,71,11225
+752,Rape ,15,72,11232
+753,Rape ,30,73,11212
+754,Rape ,81,75,11208
+755,Rape ,6,76,11231
+756,Rape ,25,77,11213
+757,Rape ,7,78,11217
+758,Rape ,29,79,11211
+759,Rape ,8,7,10002
+760,Rape ,30,81,11221
+761,Rape ,24,83,11237
+762,Rape ,6,84,11201
+763,Rape ,3,88,11205
+764,Rape ,16,90,11211
+765,Rape ,11,94,11222
+766,Rape ,25,9,10003
+767,Rape ,1,CPP,10024
+768,Rape ,12,MNP,10019
+769,Rape ,18,MSP,10001
+770,Robbery ,55,100,11693
+771,Robbery ,128,101,11691
+772,Robbery ,226,102,11418
+773,Robbery ,354,103,11432
+774,Robbery ,171,104,11385
+775,Robbery ,204,105,11428
+776,Robbery ,263,106,11417
+777,Robbery ,179,107,11365
+778,Robbery ,148,108,11105
+779,Robbery ,172,109,11354
+780,Robbery ,89,10,10011
+781,Robbery ,282,110,11368
+782,Robbery ,44,111,11361
+783,Robbery ,54,112,11375
+784,Robbery ,251,113,11434
+785,Robbery ,245,114,11103
+786,Robbery ,312,115,11372
+787,Robbery ,193,120,10301
+788,Robbery ,150,121,None
+789,Robbery ,56,122,10306
+790,Robbery ,14,123,10307
+791,Robbery ,140,13,10010
+792,Robbery ,61,17,10017
+793,Robbery ,82,19,10021
+794,Robbery ,41,1,10013
+795,Robbery ,53,20,10020
+796,Robbery ,228,23,10029
+797,Robbery ,124,24,10025
+798,Robbery ,211,25,10035
+799,Robbery ,118,26,10027
+800,Robbery ,165,28,10027
+801,Robbery ,149,30,10028
+802,Robbery ,235,32,10030
+803,Robbery ,141,33,10031
+804,Robbery ,205,34,10033
+805,Robbery ,394,40,10454
+806,Robbery ,240,41,10459
+807,Robbery ,290,42,10452
+808,Robbery ,528,43,10472
+809,Robbery ,399,44,10452
+810,Robbery ,155,45,10465
+811,Robbery ,313,46,10457
+812,Robbery ,410,47,10466
+813,Robbery ,366,48,10457
+814,Robbery ,164,49,10461
+815,Robbery ,136,50,10463
+816,Robbery ,430,52,10467
+817,Robbery ,68,5,10013
+818,Robbery ,256,60,11224
+819,Robbery ,216,61,11223
+820,Robbery ,149,62,11214
+821,Robbery ,184,63,11210
+822,Robbery ,132,66,11218
+823,Robbery ,458,67,11226
+824,Robbery ,85,68,11220
+825,Robbery ,192,69,11236
+826,Robbery ,90,6,10011
+827,Robbery ,291,70,11230
+828,Robbery ,286,71,11225
+829,Robbery ,189,72,11232
+830,Robbery ,390,73,11212
+831,Robbery ,800,75,11208
+832,Robbery ,80,76,11231
+833,Robbery ,284,77,11213
+834,Robbery ,90,78,11217
+835,Robbery ,309,79,11211
+836,Robbery ,110,7,10002
+837,Robbery ,304,81,11221
+838,Robbery ,326,83,11237
+839,Robbery ,131,84,11201
+840,Robbery ,191,88,11205
+841,Robbery ,239,90,11211
+842,Robbery ,85,94,11222
+843,Robbery ,99,9,10003
+844,Robbery ,20,CPP,10024
+845,Robbery ,128,MNP,10019
+846,Robbery ,172,MSP,10001
+847,Shooting Inc. ,12,100,11693
+848,Shooting Inc. ,28,101,11691
+849,Shooting Inc. ,7,102,11418
+850,Shooting Inc. ,17,103,11432
+851,Shooting Inc. ,7,104,11385
+852,Shooting Inc. ,11,105,11428
+853,Shooting Inc. ,4,106,11417
+854,Shooting Inc. ,4,107,11365
+855,Shooting Inc. ,2,108,11105
+856,Shooting Inc. ,5,109,11354
+857,Shooting Inc. ,1,10,10011
+858,Shooting Inc. ,5,110,11368
+859,Shooting Inc. ,0,111,11361
+860,Shooting Inc. ,0,112,11375
+861,Shooting Inc. ,30,113,11434
+862,Shooting Inc. ,18,114,11103
+863,Shooting Inc. ,7,115,11372
+864,Shooting Inc. ,22,120,10301
+865,Shooting Inc. ,13,121,None
+866,Shooting Inc. ,3,122,10306
+867,Shooting Inc. ,0,123,10307
+868,Shooting Inc. ,2,13,10010
+869,Shooting Inc. ,0,17,10017
+870,Shooting Inc. ,0,19,10021
+871,Shooting Inc. ,0,1,10013
+872,Shooting Inc. ,1,20,10020
+873,Shooting Inc. ,14,23,10029
+874,Shooting Inc. ,1,24,10025
+875,Shooting Inc. ,13,25,10035
+876,Shooting Inc. ,7,26,10027
+877,Shooting Inc. ,7,28,10027
+878,Shooting Inc. ,14,30,10028
+879,Shooting Inc. ,22,32,10030
+880,Shooting Inc. ,6,33,10031
+881,Shooting Inc. ,8,34,10033
+882,Shooting Inc. ,37,40,10454
+883,Shooting Inc. ,20,41,10459
+884,Shooting Inc. ,35,42,10452
+885,Shooting Inc. ,38,43,10472
+886,Shooting Inc. ,41,44,10452
+887,Shooting Inc. ,4,45,10465
+888,Shooting Inc. ,42,46,10457
+889,Shooting Inc. ,49,47,10466
+890,Shooting Inc. ,25,48,10457
+891,Shooting Inc. ,15,49,10461
+892,Shooting Inc. ,9,50,10463
+893,Shooting Inc. ,24,52,10467
+894,Shooting Inc. ,2,5,10013
+895,Shooting Inc. ,23,60,11224
+896,Shooting Inc. ,3,61,11223
+897,Shooting Inc. ,2,62,11214
+898,Shooting Inc. ,12,63,11210
+899,Shooting Inc. ,1,66,11218
+900,Shooting Inc. ,62,67,11226
+901,Shooting Inc. ,0,68,11220
+902,Shooting Inc. ,35,69,11236
+903,Shooting Inc. ,2,6,10011
+904,Shooting Inc. ,23,70,11230
+905,Shooting Inc. ,29,71,11225
+906,Shooting Inc. ,3,72,11232
+907,Shooting Inc. ,69,73,11212
+908,Shooting Inc. ,64,75,11208
+909,Shooting Inc. ,5,76,11231
+910,Shooting Inc. ,38,77,11213
+911,Shooting Inc. ,3,78,11217
+912,Shooting Inc. ,34,79,11211
+913,Shooting Inc. ,2,7,10002
+914,Shooting Inc. ,41,81,11221
+915,Shooting Inc. ,21,83,11237
+916,Shooting Inc. ,7,84,11201
+917,Shooting Inc. ,12,88,11205
+918,Shooting Inc. ,18,90,11211
+919,Shooting Inc. ,2,94,11222
+920,Shooting Inc. ,3,9,10003
+921,Shooting Inc. ,0,CPP,10024
+922,Shooting Inc. ,0,MNP,10019
+923,Shooting Inc. ,0,MSP,10001
+924,Shooting Vic. ,13,100,11693
+925,Shooting Vic. ,29,101,11691
+926,Shooting Vic. ,7,102,11418
+927,Shooting Vic. ,21,103,11432
+928,Shooting Vic. ,8,104,11385
+929,Shooting Vic. ,12,105,11428
+930,Shooting Vic. ,4,106,11417
+931,Shooting Vic. ,4,107,11365
+932,Shooting Vic. ,5,108,11105
+933,Shooting Vic. ,5,109,11354
+934,Shooting Vic. ,1,10,10011
+935,Shooting Vic. ,8,110,11368
+936,Shooting Vic. ,0,111,11361
+937,Shooting Vic. ,0,112,11375
+938,Shooting Vic. ,40,113,11434
+939,Shooting Vic. ,24,114,11103
+940,Shooting Vic. ,10,115,11372
+941,Shooting Vic. ,24,120,10301
+942,Shooting Vic. ,16,121,None
+943,Shooting Vic. ,3,122,10306
+944,Shooting Vic. ,0,123,10307
+945,Shooting Vic. ,3,13,10010
+946,Shooting Vic. ,0,17,10017
+947,Shooting Vic. ,0,19,10021
+948,Shooting Vic. ,0,1,10013
+949,Shooting Vic. ,2,20,10020
+950,Shooting Vic. ,17,23,10029
+951,Shooting Vic. ,1,24,10025
+952,Shooting Vic. ,19,25,10035
+953,Shooting Vic. ,7,26,10027
+954,Shooting Vic. ,8,28,10027
+955,Shooting Vic. ,17,30,10028
+956,Shooting Vic. ,23,32,10030
+957,Shooting Vic. ,7,33,10031
+958,Shooting Vic. ,10,34,10033
+959,Shooting Vic. ,42,40,10454
+960,Shooting Vic. ,21,41,10459
+961,Shooting Vic. ,39,42,10452
+962,Shooting Vic. ,45,43,10472
+963,Shooting Vic. ,47,44,10452
+964,Shooting Vic. ,5,45,10465
+965,Shooting Vic. ,52,46,10457
+966,Shooting Vic. ,56,47,10466
+967,Shooting Vic. ,31,48,10457
+968,Shooting Vic. ,16,49,10461
+969,Shooting Vic. ,10,50,10463
+970,Shooting Vic. ,28,52,10467
+971,Shooting Vic. ,2,5,10013
+972,Shooting Vic. ,25,60,11224
+973,Shooting Vic. ,3,61,11223
+974,Shooting Vic. ,2,62,11214
+975,Shooting Vic. ,13,63,11210
+976,Shooting Vic. ,2,66,11218
+977,Shooting Vic. ,84,67,11226
+978,Shooting Vic. ,0,68,11220
+979,Shooting Vic. ,41,69,11236
+980,Shooting Vic. ,4,6,10011
+981,Shooting Vic. ,29,70,11230
+982,Shooting Vic. ,36,71,11225
+983,Shooting Vic. ,3,72,11232
+984,Shooting Vic. ,85,73,11212
+985,Shooting Vic. ,71,75,11208
+986,Shooting Vic. ,6,76,11231
+987,Shooting Vic. ,43,77,11213
+988,Shooting Vic. ,4,78,11217
+989,Shooting Vic. ,39,79,11211
+990,Shooting Vic. ,2,7,10002
+991,Shooting Vic. ,46,81,11221
+992,Shooting Vic. ,24,83,11237
+993,Shooting Vic. ,7,84,11201
+994,Shooting Vic. ,15,88,11205
+995,Shooting Vic. ,26,90,11211
+996,Shooting Vic. ,3,94,11222
+997,Shooting Vic. ,3,9,10003
+998,Shooting Vic. ,0,CPP,10024
+999,Shooting Vic. ,0,MNP,10019
+1000,Shooting Vic. ,0,MSP,10001
+1001,Transit ,9,100,11693
+1002,Transit ,10,101,11691
+1003,Transit ,10,102,11418
+1004,Transit ,17,103,11432
+1005,Transit ,7,104,11385
+1006,Transit ,0,105,11428
+1007,Transit ,27,106,11417
+1008,Transit ,23,107,11365
+1009,Transit ,57,108,11105
+1010,Transit ,25,109,11354
+1011,Transit ,11,10,10011
+1012,Transit ,30,110,11368
+1013,Transit ,0,111,11361
+1014,Transit ,35,112,11375
+1015,Transit ,0,113,11434
+1016,Transit ,13,114,11103
+1017,Transit ,33,115,11372
+1018,Transit ,0,120,10301
+1019,Transit ,0,121,None
+1020,Transit ,0,122,10306
+1021,Transit ,0,123,10307
+1022,Transit ,58,13,10010
+1023,Transit ,27,17,10017
+1024,Transit ,16,19,10021
+1025,Transit ,51,1,10013
+1026,Transit ,12,20,10020
+1027,Transit ,6,23,10029
+1028,Transit ,41,24,10025
+1029,Transit ,18,25,10035
+1030,Transit ,26,26,10027
+1031,Transit ,14,28,10027
+1032,Transit ,17,30,10028
+1033,Transit ,9,32,10030
+1034,Transit ,22,33,10031
+1035,Transit ,28,34,10033
+1036,Transit ,56,40,10454
+1037,Transit ,22,41,10459
+1038,Transit ,7,42,10452
+1039,Transit ,23,43,10472
+1040,Transit ,48,44,10452
+1041,Transit ,12,45,10465
+1042,Transit ,33,46,10457
+1043,Transit ,33,47,10466
+1044,Transit ,14,48,10457
+1045,Transit ,9,49,10461
+1046,Transit ,21,50,10463
+1047,Transit ,39,52,10467
+1048,Transit ,40,5,10013
+1049,Transit ,25,60,11224
+1050,Transit ,18,61,11223
+1051,Transit ,16,62,11214
+1052,Transit ,0,63,11210
+1053,Transit ,12,66,11218
+1054,Transit ,8,67,11226
+1055,Transit ,6,68,11220
+1056,Transit ,19,69,11236
+1057,Transit ,36,6,10011
+1058,Transit ,21,70,11230
+1059,Transit ,23,71,11225
+1060,Transit ,15,72,11232
+1061,Transit ,56,73,11212
+1062,Transit ,52,75,11208
+1063,Transit ,5,76,11231
+1064,Transit ,25,77,11213
+1065,Transit ,31,78,11217
+1066,Transit ,19,79,11211
+1067,Transit ,11,7,10002
+1068,Transit ,15,81,11221
+1069,Transit ,18,83,11237
+1070,Transit ,78,84,11201
+1071,Transit ,32,88,11205
+1072,Transit ,24,90,11211
+1073,Transit ,14,94,11222
+1074,Transit ,17,9,10003
+1075,Transit ,0,CPP,10024
+1076,Transit ,48,MNP,10019
+1077,Transit ,100,MSP,10001
