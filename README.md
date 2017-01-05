@@ -10,7 +10,7 @@ The data has been extracted from 3 sources :
 - New York Police Department data in 2014 : http://data.beta.nyc/dataset/compstat/resource/21a30a06-01a4-4339-9469-1588779f57c2
 - Department of Health, zipcodes and neighborhoods (web-scraping) : https://www.health.ny.gov/statistics/cancer/registry/appendix/neighborhoods.htm
 
-Here are the steps we followed :
+Here are the steps followed :
 
 ![alt tag](https://github.com/mluisada/Housing-in-NYC/blob/master/Workflow.png)
 
