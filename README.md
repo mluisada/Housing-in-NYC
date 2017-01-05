@@ -12,7 +12,7 @@ The data has been extracted from 3 sources :
 
 Here are the steps we followed :
 
-\includegraphics[]{Workflow.png}
+![alt tag](https://github.com/mluisada/Housing-in-NYC/blob/master/Workflow.png)
 
 - Downloading the first 2 datasets and webscraping the 3rd one.
 - Cleaning the data, formatting some variables and adding new columns.
