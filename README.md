@@ -11,6 +11,9 @@ The data has been extracted from 3 sources :
 - Department of Health, zipcodes and neighborhoods (web-scraping) : https://www.health.ny.gov/statistics/cancer/registry/appendix/neighborhoods.htm
 
 Here are the steps we followed :
+
+\includegraphics[]{Workflow.png}
+
 - Downloading the first 2 datasets and webscraping the 3rd one.
 - Cleaning the data, formatting some variables and adding new columns.
 - Data exploration, building graphs (using seaborn and matplotlib)
